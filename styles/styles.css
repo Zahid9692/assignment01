@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+/* banner styles */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* big texts styles */
+.big-texts {
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  transform: translate(-10%, -50%);
+  text-align: right;
+  padding: 16px;
+}
+
+.big-text-title {
+  font-size: 42px;
+  padding: 16px 0;
+  font-weight: 700;
+}
+
+.lorem01 {
+  padding: 16px 0;
+}
+
+.btn-primary {
+  color: #005FAC;
+  background-color: rgb(255, 255, 255);
+  border: 0;
+  padding: 16px 24px;
+  font-weight: 700;
+  margin: 8px 0;
+  border-radius: 4px;
+}
