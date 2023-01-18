@@ -40,3 +40,50 @@
   margin: 8px 0;
   border-radius: 4px;
 }
+
+/* failures styles */
+
+.failures {
+  /* padding: 144px 188px; */
+  margin: 144px 188px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.fail-texts {
+  position: relative;
+  text-align: left;
+  margin: auto;
+}
+
+.failures-title {
+  padding: 16px 0;
+}
+
+.fail-list {
+  padding: 16px 0;
+}
+
+.fail-list li {
+  padding: 6px 0;
+}
+
+/* my skills */
+
+.skill-title{
+text-align: center;
+margin: 72px 0;
+}
+.skills {
+  margin: 0 188px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skill-items {
+  text-align: center;
+}
+
+.skill-items h3 {
+  padding: 8px 0;
+}
